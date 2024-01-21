@@ -1,4 +1,4 @@
-# PyCompress - File Compression Tool
+# ZipGenius - File Compression Tool
 
 ![ZipGenius Logo](logo.png)
 
